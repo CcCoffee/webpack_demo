@@ -1,0 +1,14 @@
+body{
+    background-color: blueviolet;
+    font-size: 250%;
+}
+#pic1{
+    background-image: url(../images/1.jpg);
+    width: 45px;
+    height: 45px;
+ }
+#pic2{
+    background-image: url(../images/2.jpg);
+    width: 480px;
+    height: 360px;
+}
